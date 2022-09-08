@@ -25,5 +25,7 @@ public class If {
 		if(criteriodeReprovacao) {
 			System.out.println("Reprovado");
 		}
+		
+		teclado.close();
 	}
 }
